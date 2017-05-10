@@ -13,6 +13,7 @@ package com.cts;
 	}
 	public synchronized void last(){
 		System.out.println("Inside A This Is Last method");
+		System.out.println("Inside A This Is Last method");
 	}
 }
  class B {
